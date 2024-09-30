@@ -1,0 +1,35 @@
+[
+    {
+      "regulation_name": "UK General Data Protection Regulation (UK GDPR)"
+    },
+    {
+      "regulation_name": "California Consumer Privacy Act (CCPA)"
+    },
+    {
+      "regulation_name": "Health Insurance Portability and Accountability Act (HIPAA)"
+    },
+    {
+      "regulation_name": "Payment Card Industry Data Security Standard (PCI DSS)"
+    },
+    {
+      "regulation_name": "Federal Information Security Management Act (FISMA)"
+    },
+    {
+      "regulation_name": "Sarbanes-Oxley Act (SOX)"
+    },
+    {
+      "regulation_name": "Gramm-Leach-Bliley Act (GLBA)"
+    },
+    {
+      "regulation_name": "Children’s Online Privacy Protection Act (COPPA)"
+    },
+    {
+      "regulation_name": "Digital Operational Resilience Act (DORA)"
+    },
+    {
+      "regulation_name": "NIS2 Directive"
+    },
+    {
+      "regulation_name": "EU General Data Protection Regulation (EU GDPR)"
+    }
+  ]

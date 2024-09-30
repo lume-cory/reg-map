@@ -1,0 +1,362 @@
+[
+    {
+      "Article": "Article 5",
+      "Sub Article": "5.1",
+      "Requirement Description": "Establish internal governance to manage ICT risks.",
+      "CRI Profile": "GV.RM-03.01",
+      "Control Category": "GOVERN / Risk Management Strategy / Enterprise Risk Integration",
+      "Security Policy ID": 23
+    },
+    {
+      "Article": "Article 5",
+      "Sub Article": "5.1",
+      "Requirement Description": "Establish internal governance to manage ICT risks.",
+      "CRI Profile": "GV.RM-01.03",
+      "Control Category": "GOVERN / Risk Management Strategy / Risk Management Objectives Agreement",
+      "Security Policy ID": 17
+    },
+    {
+      "Article": "Article 5",
+      "Sub Article": "5.1",
+      "Requirement Description": "Establish internal governance to manage ICT risks.",
+      "CRI Profile": "GV.RM-01.02",
+      "Control Category": "GOVERN / Risk Management Strategy / Risk Management Objectives Agreement",
+      "Security Policy ID": 16
+    },
+    {
+      "Article": "Article 5",
+      "Sub Article": "5.1",
+      "Requirement Description": "Establish internal governance to manage ICT risks.",
+      "CRI Profile": "GV.RM-01.01",
+      "Control Category": "GOVERN / Risk Management Strategy / Risk Management Objectives Agreement",
+      "Security Policy ID": 15
+    },
+    {
+      "Article": "Article 5",
+      "Sub Article": "5.2",
+      "Requirement Description": "Senior management must oversee the ICT risk management strategy.",
+      "CRI Profile": "GV.OV-01.03",
+      "Control Category": "GOVERN / Oversight / Risk Management Strategy Outcomes Review",
+      "Security Policy ID": 70
+    },
+    {
+      "Article": "Article 5",
+      "Sub Article": "5.2",
+      "Requirement Description": "Senior management must oversee the ICT risk management strategy.",
+      "CRI Profile": "GV.OV-01.02",
+      "Control Category": "GOVERN / Oversight / Risk Management Strategy Outcomes Review",
+      "Security Policy ID": 69
+    },
+    {
+      "Article": "Article 5",
+      "Sub Article": "5.2",
+      "Requirement Description": "Senior management must oversee the ICT risk management strategy.",
+      "CRI Profile": "GV.OV-01.01",
+      "Control Category": "GOVERN / Oversight / Risk Management Strategy Outcomes Review",
+      "Security Policy ID": 68
+    },
+    {
+      "Article": "Article 5",
+      "Sub Article": "5.3",
+      "Requirement Description": "Internal committees should be responsible for ICT risk.",
+      "CRI Profile": "GV.OV-01.01",
+      "Control Category": "GOVERN / Oversight / Risk Management Strategy Outcomes Review",
+      "Security Policy ID": 68
+    },
+    {
+      "Article": "Article 5",
+      "Sub Article": "5.3",
+      "Requirement Description": "Internal committees should be responsible for ICT risk.",
+      "CRI Profile": "GV.RM-01.01",
+      "Control Category": "GOVERN / Risk Management Strategy / Risk Management Objectives Agreement",
+      "Security Policy ID": 15
+    },
+    {
+      "Article": "Article 5",
+      "Sub Article": "5.4",
+      "Requirement Description": "Allocate budget for ICT security awareness programs and training.",
+      "CRI Profile": null,
+      "Control Category": null,
+      "Security Policy ID": null
+    },
+    {
+      "Article": "Article 6",
+      "Sub Article": "6.1",
+      "Requirement Description": "Define roles and responsibilities for managing ICT risk.",
+      "CRI Profile": "GV.PO-01.01",
+      "Control Category": "GOVERN / Policies, Processes, and Procedures / Establishment of Policies & Procedures",
+      "Security Policy ID": 59
+    },
+    {
+      "Article": "Article 6",
+      "Sub Article": "6.1",
+      "Requirement Description": "Define roles and responsibilities for managing ICT risk.",
+      "CRI Profile": "GV.RR-01.01",
+      "Control Category": "GOVERN / Roles, Responsibilities, and Authorities / Organizational Leadership Responsibility",
+      "Security Policy ID": 41
+    },
+    {
+      "Article": "Article 6",
+      "Sub Article": "6.1",
+      "Requirement Description": "Define roles and responsibilities for managing ICT risk.",
+      "CRI Profile": "GV.OC-03.01",
+      "Control Category": "GOVERN / Organizational Context / Legal, Regulatory, & Contractual Requirements",
+      "Security Policy ID": 5
+    },
+    {
+      "Article": "Article 6",
+      "Sub Article": "6.1",
+      "Requirement Description": "Define roles and responsibilities for managing ICT risk.",
+      "CRI Profile": "GV.OC-01.01",
+      "Control Category": "GOVERN / Organizational Context / Organizational Mission",
+      "Security Policy ID": 1
+    },
+    {
+      "Article": "Article 6",
+      "Sub Article": "6.8.a",
+      "Requirement Description": "Critical ICT third-party providers must comply with governance requirements.",
+      "CRI Profile": "EX.CN-02.02",
+      "Control Category": "EXTEND / Third-Party Contracts and Agreements / Contract Cybersecurity-Related Requirements",
+      "Security Policy ID": 303
+    },
+    {
+      "Article": "Article 6",
+      "Sub Article": "6.8.a",
+      "Requirement Description": "Critical ICT third-party providers must comply with governance requirements.",
+      "CRI Profile": "EX.CN-02.01",
+      "Control Category": "EXTEND / Third-Party Contracts and Agreements / Contract Cybersecurity-Related Requirements",
+      "Security Policy ID": 302
+    },
+    {
+      "Article": "Article 6",
+      "Sub Article": "6.8.a",
+      "Requirement Description": "Critical ICT third-party providers must comply with governance requirements.",
+      "CRI Profile": "EX.DD-02.03",
+      "Control Category": "EXTEND / Procurement Planning and Due Diligence / Prospective Third Party Due Diligence",
+      "Security Policy ID": 292
+    },
+    {
+      "Article": "Article 6",
+      "Sub Article": "6.8.a",
+      "Requirement Description": "Critical ICT third-party providers must comply with governance requirements.",
+      "CRI Profile": "EX.DD-02.01",
+      "Control Category": "EXTEND / Procurement Planning and Due Diligence / Prospective Third Party Due Diligence",
+      "Security Policy ID": 290
+    },
+    {
+      "Article": "Article 6",
+      "Sub Article": "6.8.a",
+      "Requirement Description": "Critical ICT third-party providers must comply with governance requirements.",
+      "CRI Profile": "EX.DD-01.01",
+      "Control Category": "EXTEND / Procurement Planning and Due Diligence / Procurement Planning",
+      "Security Policy ID": 287
+    },
+    {
+      "Article": "Article 6",
+      "Sub Article": "6.8.b",
+      "Requirement Description": "Financial entities must maintain internal control functions to manage ICT risks.",
+      "CRI Profile": "GV.IR-02.02",
+      "Control Category": "GOVERN / Independent Risk Management Function / Independent Risk Management Evaluation",
+      "Security Policy ID": 86
+    },
+    {
+      "Article": "Article 6",
+      "Sub Article": "6.8.b",
+      "Requirement Description": "Financial entities must maintain internal control functions to manage ICT risks.",
+      "CRI Profile": "GV.IR-01.01",
+      "Control Category": "GOVERN / Independent Risk Management Function / Independent Risk Management Function",
+      "Security Policy ID": 82
+    },
+    {
+      "Article": "Article 6",
+      "Sub Article": "6.8.b",
+      "Requirement Description": "Financial entities must maintain internal control functions to manage ICT risks.",
+      "CRI Profile": "GV.RM-01.04",
+      "Control Category": "GOVERN / Risk Management Strategy / Risk Management Objectives Agreement",
+      "Security Policy ID": 18
+    },
+    {
+      "Article": "Article 6",
+      "Sub Article": "6.8.b",
+      "Requirement Description": "Financial entities must maintain internal control functions to manage ICT risks.",
+      "CRI Profile": "GV.OC-03.01",
+      "Control Category": "GOVERN / Organizational Context / Legal, Regulatory, & Contractual Requirements",
+      "Security Policy ID": 5
+    },
+    {
+      "Article": "Article 6",
+      "Sub Article": "6.8.c",
+      "Requirement Description": "Ensure ICT risks are managed in line with the overall risk management framework.",
+      "CRI Profile": "GV.RM-03.04",
+      "Control Category": "GOVERN / Risk Management Strategy / Enterprise Risk Integration",
+      "Security Policy ID": 26
+    },
+    {
+      "Article": "Article 6",
+      "Sub Article": "6.8.c",
+      "Requirement Description": "Ensure ICT risks are managed in line with the overall risk management framework.",
+      "CRI Profile": "GV.RM-03.03",
+      "Control Category": "GOVERN / Risk Management Strategy / Enterprise Risk Integration",
+      "Security Policy ID": 25
+    },
+    {
+      "Article": "Article 6",
+      "Sub Article": "6.8.c",
+      "Requirement Description": "Ensure ICT risks are managed in line with the overall risk management framework.",
+      "CRI Profile": "GV.RM-03.02",
+      "Control Category": "GOVERN / Risk Management Strategy / Enterprise Risk Integration",
+      "Security Policy ID": 24
+    },
+    {
+      "Article": "Article 6",
+      "Sub Article": "6.8.c",
+      "Requirement Description": "Ensure ICT risks are managed in line with the overall risk management framework.",
+      "CRI Profile": "GV.RM-03.01",
+      "Control Category": "GOVERN / Risk Management Strategy / Enterprise Risk Integration",
+      "Security Policy ID": 23
+    },
+    {
+      "Article": "Article 6",
+      "Sub Article": "6.8.c",
+      "Requirement Description": "Ensure ICT risks are managed in line with the overall risk management framework.",
+      "CRI Profile": "GV.RM-01.01",
+      "Control Category": "GOVERN / Risk Management Strategy / Risk Management Objectives Agreement",
+      "Security Policy ID": 15
+    },
+    {
+      "Article": "Article 6",
+      "Sub Article": "6.8.h",
+      "Requirement Description": "Report significant risks to the board and senior management regularly.",
+      "CRI Profile": null,
+      "Control Category": null,
+      "Security Policy ID": null
+    },
+    {
+      "Article": "7",
+      "Sub Article": "7.1",
+      "Requirement Description": "Use reliable and resilient ICT systems that can handle stress and peak demand.",
+      "CRI Profile": "RS.MI-02.01",
+      "Control Category": "RESPOND / Incident Mitigation / Incident Eradication",
+      "Security Policy ID": 275
+    },
+    {
+      "Article": "7",
+      "Sub Article": "7.1",
+      "Requirement Description": "Use reliable and resilient ICT systems that can handle stress and peak demand.",
+      "CRI Profile": "RS.MA-02.01",
+      "Control Category": "RESPOND / Incident Management / Incident Triage & Validation",
+      "Security Policy ID": 261
+    },
+    {
+      "Article": "7",
+      "Sub Article": "7.1",
+      "Requirement Description": "Use reliable and resilient ICT systems that can handle stress and peak demand.",
+      "CRI Profile": "PR.IR-01.05",
+      "Control Category": "PROTECT / Technology Infrastructure Resilience / Logical Access Protections",
+      "Security Policy ID": 228
+    },
+    {
+      "Article": "7",
+      "Sub Article": "7.1",
+      "Requirement Description": "Use reliable and resilient ICT systems that can handle stress and peak demand.",
+      "CRI Profile": "PR.IR-01.04",
+      "Control Category": "PROTECT / Technology Infrastructure Resilience / Logical Access Protections",
+      "Security Policy ID": 227
+    },
+    {
+      "Article": "7",
+      "Sub Article": "7.1",
+      "Requirement Description": "Use reliable and resilient ICT systems that can handle stress and peak demand.",
+      "CRI Profile": "PR.IR-01.03",
+      "Control Category": "PROTECT / Technology Infrastructure Resilience / Logical Access Protections",
+      "Security Policy ID": 226
+    },
+    {
+      "Article": "7",
+      "Sub Article": "7.1",
+      "Requirement Description": "Use reliable and resilient ICT systems that can handle stress and peak demand.",
+      "CRI Profile": "PR.IR-01.02",
+      "Control Category": "PROTECT / Technology Infrastructure Resilience / Logical Access Protections",
+      "Security Policy ID": 225
+    },
+    {
+      "Article": "7",
+      "Sub Article": "7.1",
+      "Requirement Description": "Use reliable and resilient ICT systems that can handle stress and peak demand.",
+      "CRI Profile": "PR.IR-01.01",
+      "Control Category": "PROTECT / Technology Infrastructure Resilience / Logical Access Protections",
+      "Security Policy ID": 224
+    },
+    {
+      "Article": "7",
+      "Sub Article": "7.1",
+      "Requirement Description": "Use reliable and resilient ICT systems that can handle stress and peak demand.",
+      "CRI Profile": "PR.PS-01.04",
+      "Control Category": "PROTECT / Platform Security / Configuration Management",
+      "Security Policy ID": 196
+    },
+    {
+      "Article": "7",
+      "Sub Article": "7.2",
+      "Requirement Description": "Ensure systems are technologically resilient under adverse conditions.",
+      "CRI Profile": null,
+      "Control Category": null,
+      "Security Policy ID": null
+    },
+    {
+      "Article": "1",
+      "Sub Article": "1.1",
+      "Requirement Description": "Achieve a high common level of digital operational resilience in the financial sector.",
+      "CRI Profile": "RC.RP-05.02",
+      "Control Category": "RECOVER / Incident Recovery Plan Execution / Asset Integrity Restoration",
+      "Security Policy ID": 282
+    },
+    {
+      "Article": "2",
+      "Sub Article": "2.1",
+      "Requirement Description": "This regulation applies to financial entities such as credit institutions, investment firms, and insurance companies.",
+      "CRI Profile": null,
+      "Control Category": null,
+      "Security Policy ID": null
+    },
+    {
+      "Article": "3",
+      "Sub Article": "3.1",
+      "Requirement Description": "Define key terms like digital operational resilience, ICT risk, and cyber threat.",
+      "CRI Profile": "GV.RM-08.04",
+      "Control Category": "GOVERN / Risk Management Strategy  / Technology Assimilation & Implementations",
+      "Security Policy ID": 35
+    },
+    {
+      "Article": "4",
+      "Sub Article": "4.1",
+      "Requirement Description": "Establish an ICT risk management framework to cover risk identification, protection, detection, recovery, and response.",
+      "CRI Profile": "GV.RM-01.04",
+      "Control Category": "GOVERN / Risk Management Strategy / Risk Management Objectives Agreement",
+      "Security Policy ID": 18
+    },
+    {
+      "Article": "4",
+      "Sub Article": "4.1",
+      "Requirement Description": "Establish an ICT risk management framework to cover risk identification, protection, detection, recovery, and response.",
+      "CRI Profile": "GV.OC-05.04",
+      "Control Category": "GOVERN / Organizational Context / Organizational Service Dependencies",
+      "Security Policy ID": 14
+    },
+    {
+      "Article": "4",
+      "Sub Article": "4.1",
+      "Requirement Description": "Establish an ICT risk management framework to cover risk identification, protection, detection, recovery, and response.",
+      "CRI Profile": "GV.OC-05.03",
+      "Control Category": "GOVERN / Organizational Context / Organizational Service Dependencies",
+      "Security Policy ID": 13
+    },
+    {
+      "Article": "4",
+      "Sub Article": "4.1",
+      "Requirement Description": "Establish an ICT risk management framework to cover risk identification, protection, detection, recovery, and response.",
+      "CRI Profile": "GV.OC-04.03",
+      "Control Category": "GOVERN / Organizational Context / Stakeholder Service Expectations",
+      "Security Policy ID": 9
+    }
+  ]

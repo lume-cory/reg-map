@@ -1,0 +1,22 @@
+[
+    {
+      "policy_name": "Information Security Policy",
+      "version": "v1.0"
+    },
+    {
+      "policy_name": "Data Privacy Policy",
+      "version": "v2.1"
+    },
+    {
+      "policy_name": "Incident Response Policy",
+      "version": "v1.2"
+    },
+    {
+      "policy_name": "Access Control Policy",
+      "version": "v1.0"
+    },
+    {
+      "policy_name": "Acceptable Use Policy",
+      "version": "v3.0"
+    }
+  ]

@@ -1,0 +1,38 @@
+[
+    {
+      "control_name": "NIST Cybersecurity Framework (CSF)",
+      "version": "1.1"
+    },
+    {
+      "control_name": "ISO 27001",
+      "version": "2013"
+    },
+    {
+      "control_name": "ISO 31000 - Risk Management",
+      "version": "2018"
+    },
+    {
+      "control_name": "CIS Risk Assessment Method (RAM)",
+      "version": "1.0"
+    },
+    {
+      "control_name": "NIST Risk Management Framework (RMF)",
+      "version": "1.0"
+    },
+    {
+      "control_name": "SOC2 Type 1",
+      "version": "2018"
+    },
+    {
+      "control_name": "SOC2 Type 2",
+      "version": "2018"
+    },
+    {
+      "control_name": "Cyber Risk Institute (CRI) Profile",
+      "version": "v2"
+    },
+    {
+      "control_name": "Center for Internet Security (CIS) Critical Security Controls",
+      "version": "v8.1"
+    }
+  ]
